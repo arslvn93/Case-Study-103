@@ -43,7 +43,7 @@ const config = {
     "sidebar": {
       "title": "About {{companyName}}",
       "image": {
-        "src": "https://app.salesgenius.co/api/user-images/bfb25410-bda3-42ae-9afc-8239f107ab72?v=c6390357b4f3ab8bea4d3132cce882a787b9f8f933025b83e24109c83187d82f"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-julian.jpg"
       },
       "paragraphs": [
         "Julian, a graduate of Ryerson University with a Bachelor of Commerce degree in Marketing has been a successful business development and online marketing specialist for the past 17 years. Being Iranian born then growing up in France, he became fluent in multiple languages (Persian, French and English) which he found quite contributive to his adventures as a world traveller. He first fell in love with real estate at the age of 24 when he purchased his first condominium for investment purposes and ever since have made sure he was knowledgeable of the market as well the various changes that occur in developing neighbourhoods. His background as a business owner has given his real estate business a high level of experience and professionalism. Julian has a proven track record of directly impacting his clients’ financial success and propelling smooth transactions by applying refined management, selling and negotiation talents. If you are planning on buying, selling or even leasing, within the greater Toronto area contact Julian Kashani for a personalized customer care experience, he takes pride in his work by delivering exceptional service and establishing lifelong relationships."
