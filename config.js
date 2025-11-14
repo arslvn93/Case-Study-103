@@ -1,20 +1,9 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Julian Kashani",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Julian Kashani",
-        "imageSrc": "https://app.salesgenius.co/api/user-images/bfb25410-bda3-42ae-9afc-8239f107ab72?v=c6390357b4f3ab8bea4d3132cce882a787b9f8f933025b83e24109c83187d82f",
+        "imageSrc": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-julian.jpg",
         "contactDetails": [
           {
             "type": "email",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Julian Kashani",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "#contact",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Searching from another country, making it nearly impossible to act quickly when the right opportunity appeared",
         "Waiting for the perfect unit in their target building while watching the market shift, uncertain whether to wait or act",
         "Needing a property that could attract quality tenants immediately in a slowing rental market, covering their carrying costs until retirement"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"What set Julian apart was how he put our interests first at every step. He took the time to really understand what we needed—not just any condo, but the right condo in the right building. He was patient through 20 viewings, did video tours when we couldn't be there, and his network got us into units before they were even listed. When we found the one, he structured our offer so smartly that we won even though we weren't the highest bid. Then he got it rented faster and for more money than we thought possible. We have complete peace of mind knowing our retirement home is secured and paying for itself.\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1762878398324-IMG-C12400519_8.jpeg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -99,7 +97,8 @@ const config = {
         "Secured a <strong>premium rental tenant within 10 days</strong> with 3 competing offers—in a slow rental market",
         "<strong>RENTAL INCOME EXCEEDED EXPECTATIONS</strong>, covering carrying costs and delivering positive cash flow until retirement",
         "Locked in pricing that was significantly lower than peak market rates from two years prior, positioning them perfectly for long-term appreciation"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -108,7 +107,8 @@ const config = {
         "<strong>Market timing matters—down markets create incredible opportunities</strong> for buyers with long-term vision and the ability to act decisively",
         "<strong>Removing conditions can be more powerful than offering the highest price</strong> when you have the financial strength and confidence to do so",
         "<strong>Ultra-focused search strategies beat casting a wide net</strong> when you know exactly what you want—patience combined with precision wins"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -120,24 +120,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://property.ca/privacy"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/bfb25410-bda3-42ae-9afc-8239f107ab72?v=c6390357b4f3ab8bea4d3132cce882a787b9f8f933025b83e24109c83187d82f"
+    },
+    "secondaryLogo": {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066683698-206K3CJ2XPFVVBZPDW8R/image-asset.jpeg"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.ca Inc",
     "brokerageAddress": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "secondaryLogo": {
-      "src": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066683698-206K3CJ2XPFVVBZPDW8R/image-asset.jpeg"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://property.ca/privacy"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-103"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
