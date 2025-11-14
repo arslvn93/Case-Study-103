@@ -125,10 +125,10 @@ const config = {
       "href": "https://property.ca/privacy"
     },
     "logo": {
-      "src": "https://app.salesgenius.co/api/user-images/bfb25410-bda3-42ae-9afc-8239f107ab72?v=c6390357b4f3ab8bea4d3132cce882a787b9f8f933025b83e24109c83187d82f"
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-julian.jpg"
     },
     "secondaryLogo": {
-      "src": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066683698-206K3CJ2XPFVVBZPDW8R/image-asset.jpeg"
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-Property_logo_W.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Property.ca Inc",
