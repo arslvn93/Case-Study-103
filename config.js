@@ -30,7 +30,7 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How Toronto-Based Downsizers Secured Their Retirement Dream Condo for $50,000 Below Asking—Then Rented It Above Market Value in Just 10 Days",
+      "title": "How Toronto-Based Downsizers Secured Their Retirement Dream Condo for $50,000 Below Asking: Then Rented It Above Market Value in Just 10 Days",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1762878389064-IMG-C12400519_1.jpeg"
       },
