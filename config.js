@@ -72,9 +72,6 @@ const config = {
         "Structured an offer without financing conditions in a competitive situation, giving my clients the winning edge despite not having the highest price",
         "Immediately activated our rental network post-closing to secure premium tenants quickly in a challenging rental market"
       ],
-      "testimonial": {
-        "quote": "\"What set Julian apart was how he put our interests first at every step. He took the time to really understand what we needed—not just any condo, but the right condo in the right building. He was patient through 20 viewings, did video tours when we couldn't be there, and his network got us into units before they were even listed. When we found the one, he structured our offer so smartly that we won even though we weren't the highest bid. Then he got it rented faster and for more money than we thought possible. We have complete peace of mind knowing our retirement home is secured and paying for itself.\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
