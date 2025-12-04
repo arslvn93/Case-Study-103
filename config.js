@@ -19,7 +19,7 @@ const config = {
     "companyName": "Julian Kashani",
     "mainCTAButtonText": "Book A Discovery Call",
     "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
+    "primaryColor": "#15202d",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
   },
