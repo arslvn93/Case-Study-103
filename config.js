@@ -20,7 +20,7 @@ const config = {
     "mainCTAButtonText": "Book A Discovery Call",
     "mainCTAButtonURL": "#contact",
     "primaryColor": "#15202d",
-    "accentColor": "#d9c6a2",
+    "accentColor": "#e5e9f5",
     "facebookPixelId": ""
   },
   "header": {
