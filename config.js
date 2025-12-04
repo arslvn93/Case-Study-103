@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "Julian Kashani",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/juliankashani-property/discoverycall",
     "primaryColor": "#a9aaad",
     "accentColor": "#858993",
     "facebookPixelId": ""
