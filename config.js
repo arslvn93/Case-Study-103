@@ -25,7 +25,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How Toronto-Based Downsizers Secured Their Retirement Dream Condo for $50,000 Below Asking. Then Rented It Above Market Value in Just 10 Days.",
+    "title": "How Toronto-Based Downsizers Secured Their Retirement Dream Condo Below Asking in Under a Month.",
     "subheadline": "Purchased in a Down Market With Strategic Terms: Now Generating Premium Rent While They Enjoy Peace of Mind"
   },
   "mainBox": {
